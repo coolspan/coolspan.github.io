@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Coolspan</title>
+  
+  <subtitle>Coolspan</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://coolspan.github.io/"/>
+  <updated>2018-11-30T09:11:56.255Z</updated>
+  <id>http://coolspan.github.io/</id>
+  
+  <author>
+    <name>乔晓松</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://coolspan.github.io/2018/11/30/hello-world/"/>
+    <id>http://coolspan.github.io/2018/11/30/hello-world/</id>
+    <published>2018-11-30T08:56:48.106Z</published>
+    <updated>2018-11-30T09:11:56.255Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>单例模式(Singleton Pattern)</title>
+    <link href="http://coolspan.github.io/2018/05/21/2018-05-21-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
+    <id>http://coolspan.github.io/2018/05/21/2018-05-21-单例模式/</id>
+    <published>2018-05-20T16:00:00.000Z</published>
+    <updated>2018-11-30T09:26:12.424Z</updated>
+    
+    <summary type="html">
+    
+      单例模式的讲解
+    
+    </summary>
+    
+      <category term="blog" scheme="http://coolspan.github.io/categories/blog/"/>
+    
+    
+      <category term="Single" scheme="http://coolspan.github.io/tags/Single/"/>
+    
+      <category term="单例模式" scheme="http://coolspan.github.io/tags/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+</feed>
